@@ -16,6 +16,17 @@ accuracy rangingfrom 82-85 per cent was obtained.
 from over 10000 houses in Bangalore from different locations within the city.
 </p>
 
+## Installation and Running
+* Clone the Repository
+* Run `Bangalore House Price Prediction.ipynb` file in `./models` folder
+* Run `server.py` present in `./server` folder
+* Run `app.html` present in `./client` folder
+* All Done !
+
+<p>
+<b>NOTE : </b> This Site can be deployed on the Local Machines
+</p>
+
 ## Related Work
 <p>
 Famous real estate companies such as Magicbricks and Zillow.com use such regression-based
