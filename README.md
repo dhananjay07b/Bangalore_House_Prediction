@@ -46,3 +46,9 @@ Libraries used: Pandas, NumPy, Matplotlib, SKLearn
 Models used: <strong>Multiple linear regression, K-Means, Lasso Regression, Decision tree.</strong>
 Metrics used: GridSearchCV
 Accuracy: MLR = 82.02%; Lasso = 67.9%; Decision tree = 71.03%
+
+<img src="accuracy.png" alt="Logo" width="500" height="120">
+
+Here's how the layout looks like:
+
+<img src="final.png" alt="Logo" width="765" height="448">
